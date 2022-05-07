@@ -2,11 +2,15 @@ package main
 
 import (
 	"fmt"
+	"github.com/jcbl1/myKegelTimer/fileOpers"
 	"math/rand"
 	"time"
 )
 
 func main() {
+	//degug
+	fileOpers.AddXP(500)
+
 	rand.Seed(time.Now().Unix())
 
 	fiftyms, err := time.ParseDuration("50ms")
