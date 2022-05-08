@@ -70,3 +70,5 @@ func addOil() {
 		fmt.Print("加油！胜利就在前方！")
 	}
 }
+
+//somth
