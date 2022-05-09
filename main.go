@@ -71,6 +71,3 @@ func addOil() {
 	}
 }
 
-//somth
-
-//cdskhfsd
