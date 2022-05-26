@@ -65,6 +65,7 @@ function add(num1, num2) {
 }
 ```
 ## 表格
+|:-:|:-:|
 |Name|Email|
 |----|-----|
 |  A | a@b.cc |
