@@ -67,8 +67,8 @@ function add(num1, num2) {
 ## 表格
 |Name|Email|
 |----|-----|
-|A|a@b.cc|
-|B|b@b.cc|
+|  A | a@b.cc |
+| B | b@b.cc |
 ## 任务列表
 - [x] Task1
 - [ ] Task2
