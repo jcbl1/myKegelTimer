@@ -71,7 +71,7 @@ function add(num1, num2) {
 |B|b@b.cc|
 ## 任务列表
 - [x] Task1
-- [] Task2
+- [ ] Task2
 
 
 
