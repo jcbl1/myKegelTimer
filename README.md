@@ -3,3 +3,4 @@
 ## 计划更新
 - [2022-05-25]转用bash实现  
 因为最近刚好学了点bash，所以想找个时候把这个项目转编成bash脚本。需要go版本的早日fork哈。
+- [2022-06-22]已转到[jcbl1/myScripts](https://github.com/jcbl1/myScripts)  
